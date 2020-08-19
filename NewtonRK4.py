@@ -80,6 +80,4 @@ ax3.plot(phi, r1)
 ax4 = fig.add_subplot(2,1,2, projection = 'polar')
 ax4.plot(phi, r2)
 
-print(t[len(t)-1])
-
 plt.show()
